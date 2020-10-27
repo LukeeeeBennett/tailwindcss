@@ -1,12 +1,12 @@
 {
   "name": "tailwindcss",
-  "version": "1.9.0",
+  "version": "1.9.0-recursive",
   "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
   "license": "MIT",
   "main": "lib/index.js",
   "style": "dist/tailwind.css",
-  "repository": "https://github.com/tailwindlabs/tailwindcss.git",
-  "bugs": "https://github.com/tailwindlabs/tailwindcss/issues",
+  "repository": "https://github.com/LukeeeeBennett/tailwindcss.git",
+  "bugs": "https://github.com/LukeeeeBennett/tailwindcss/issues",
   "homepage": "https://tailwindcss.com",
   "bin": {
     "tailwind": "lib/cli.js",

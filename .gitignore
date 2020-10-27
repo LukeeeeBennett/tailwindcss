@@ -1,5 +1,4 @@
 /node_modules
-/lib
 /example
 tailwind.config.js
 index.html
